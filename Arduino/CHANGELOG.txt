@@ -1,0 +1,15 @@
+------------------------------------------------------------
+                   DIY Jeti Dual HighTemp
+------------------------------------------------------------
+
+ Tero Salminen RC-Thoughts.com (c) 2017 www.rc-thoughts.com
+
+------------------------------------------------------------
+
+2017-08-06  Tero Salminen  <tero@rc-thoughts.com>
+
+    * v.1.0 First release
+
+2017-10-14  Tero Salminen  <tero@rc-thoughts.com>
+
+    * v.1.1 Small fix to serial speed

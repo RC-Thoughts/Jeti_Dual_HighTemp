@@ -5,7 +5,7 @@
 // Sensor Name
 // Serial speed is 10240 for Pro Mini 3.3V due software serial
 // Serial speed is 9800 for Pro Mini 5V due software serial
-JB.Init(F("RCT DHT"), JETI_RX, 10240);
+JB.Init(F("RCT DHT"), JETI_RX, 9900);
 
 // Set MAX times
 bootTime = millis();
